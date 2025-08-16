@@ -33,5 +33,5 @@ Senior Software Engineer passionate about cloud-native technologies, Real-Time, 
 - AI infrastructure tooling/images
 
 ## 📫 Socials
-- 𝕏 [X](https://x.com/c0d3t3k)
+- [𝕏](https://x.com/c0d3t3k)
 

@@ -12,6 +12,7 @@ Senior Software Engineer passionate about cloud-native technologies, Real-Time, 
 
 ## 🌱 I'm currently working on
 - Building several real-time SaaS platforms powered by Convex + Convex Agents + Resend
+- Linux Dication/Voice Control App similar to [Wispr Flow](https://wisprflow.ai/)
 - Implementing Custom Images for Vast.ai to enable more LLM inference engines (TabbyAPI, llama.cpp server)
 - Tools that allow running Proxmox in an Incus container on an existing system
 - Realtime WebRTC library with Fully Decentralized signaling

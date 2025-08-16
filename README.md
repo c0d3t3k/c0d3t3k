@@ -34,4 +34,5 @@ Senior Software Engineer passionate about cloud-native technologies, Real-Time, 
 
 ## 📫 Socials
 - [𝕏](https://x.com/c0d3t3k)
+- [Dev.to](https://dev.to/c0d3t3k)
 

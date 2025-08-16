@@ -17,7 +17,7 @@ Senior Software Engineer passionate about cloud-native technologies, Real-Time, 
 - Tools that allow running Proxmox in an Incus container on an existing system
 - Realtime WebRTC library with Fully Decentralized signaling
 - Unified tool for managing coding agent rules
-- Agentic sysadmin automation platform
+- Agentic sysadmin automation platform leveraging Vercel AI SDK, OpenCode, and Ansible 
 
 ## 💻 Tech Stack
 - **Languages:** Go, TypeScript, Python

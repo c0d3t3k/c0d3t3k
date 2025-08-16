@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @c0d3t3k
 
-Senior Software Engineer passionate about cloud-native technologies, Real-Time, WebRTC, and DevOps.
+Senior Full-Stack/DevOps Engineer passionate about cloud-native technologies, Real-Time, WebRTC, and DevOps.
 
 ## 👀 I'm interested in
 - 🕒 Real-Time Full-Stack Applications
